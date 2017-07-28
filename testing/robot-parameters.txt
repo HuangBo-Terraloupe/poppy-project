@@ -1,0 +1,12 @@
+** FIXED MOTORS **
+l_shoulder_y = -90°
+l_arm_z = -90°
+
+** ARM LENGTHS **
+L1 = 0.151 = NORM(pos(l_shoulder_x) - pos(l_elbow_y))
+L2 = 0.101 = NORM(pos(l_elbow_y) - pos (l_forearm_visual))
+
+** MOVING MOTORS **
+l_shoulder_x = Theta1, forward(Theta1=0°), limits [195,-20], r_shoulder_x limits [20, -195]
+l_elbow_y = Theta2, forward(Theta2=0°), limits [-148, 1], r_elbow_y limits [1, -148]
+r_elbow_y = Theta2 is inverted! --> use as Theta2 *= -1.0

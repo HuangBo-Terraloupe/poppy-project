@@ -1,0 +1,33 @@
+(switch to multi-processing library)
+(save replay_memory either at the end or after many iterations)
+(kalman filter on visual goal)
+(collision avoidance when using 2 arms)
+(fix normalization of angles)
+
+final report:
+- sections for: vision, real robot & two arms
+	- vision (Bo)
+	- 2 arms: just trained a right arm network + splitted workspace into 2 parts (if goal close to right/left shoulder, move corresponding arm in order to avoid collisions)
+
+- all milestones (all completed, even triangle) + explanation/description of 3-4 lines each (phenomena, observations, achievements, failures?)
+
+- technical details:
+	- especially algorithm + modifications (e.g. sampling, exploration, ...)
+	- simulations environment (images, workflow)
+	- robot + environment modeling
+	- from simulation to real robot (problems, changes)
+
+- personal feedback (new knowledge): 
+	- project management, 
+	- numerical issues of simulations, 
+	- descritization of 1 degree shows trade-off between achieving the goal of reaching task + using discrete actions 
+- reflexion about project (how would you change the project, improvements?, sugestions to next years student)
+	- nothing to change, we even reached optional goals like vision + drawing of triangle (maybe screenshot)
+
+IMPORTANT:
+experience + personal feedback
+experiments showed that exploration successful (because problems were forseen)
+
+
+
+final presentation

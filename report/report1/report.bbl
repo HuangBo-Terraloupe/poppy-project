@@ -1,0 +1,61 @@
+\begin{thebibliography}{10}
+
+\bibitem{gu2016deep}
+Shixiang Gu, Ethan Holly, Timothy Lillicrap, and Sergey Levine.
+\newblock Deep reinforcement learning for robotic manipulation.
+\newblock {\em arXiv preprint arXiv:1610.00633}, 2016.
+
+\bibitem{gu2016offpolicy}
+Shixiang Gu, Ethan Holly, Timothy Lillicrap, and Sergey Levine.
+\newblock Deep reinforcement learning for robotic manipulation with
+  asynchronous off-policy updates.
+\newblock {\em arXiv preprint arXiv:1610.00633}, 2016.
+
+\bibitem{kober2012reinforcement}
+Jens Kober and Jan Peters.
+\newblock Reinforcement learning in robotics: A survey.
+\newblock In {\em Reinforcement Learning}, pages 579--610. Springer, 2012.
+
+\bibitem{lillicrap2015continuous}
+Timothy~P Lillicrap, Jonathan~J Hunt, Alexander Pritzel, Nicolas Heess, Tom
+  Erez, Yuval Tassa, David Silver, and Daan Wierstra.
+\newblock Continuous control with deep reinforcement learning.
+\newblock {\em arXiv preprint arXiv:1509.02971}, 2015.
+
+\bibitem{mnih2016asynchronous}
+Volodymyr Mnih, Adria~Puigdomenech Badia, Mehdi Mirza, Alex Graves, Timothy~P
+  Lillicrap, Tim Harley, David Silver, and Koray Kavukcuoglu.
+\newblock Asynchronous methods for deep reinforcement learning.
+\newblock {\em arXiv preprint arXiv:1602.01783}, 2016.
+
+\bibitem{mnih2013playing}
+Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis
+  Antonoglou, Daan Wierstra, and Martin Riedmiller.
+\newblock Playing atari with deep reinforcement learning.
+\newblock {\em arXiv preprint arXiv:1312.5602}, 2013.
+
+\bibitem{mnih2015human}
+Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei~A Rusu, Joel Veness,
+  Marc~G Bellemare, Alex Graves, Martin Riedmiller, Andreas~K Fidjeland, Georg
+  Ostrovski, et~al.
+\newblock Human-level control through deep reinforcement learning.
+\newblock {\em Nature}, 518(7540):529--533, 2015.
+
+\bibitem{nair2015massively}
+Arun Nair, Praveen Srinivasan, Sam Blackwell, Cagdas Alcicek, Rory Fearon,
+  Alessandro De~Maria, Vedavyas Panneershelvam, Mustafa Suleyman, Charles
+  Beattie, Stig Petersen, et~al.
+\newblock Massively parallel methods for deep reinforcement learning.
+\newblock {\em arXiv preprint arXiv:1507.04296}, 2015.
+
+\bibitem{watkins1992q}
+Christopher~JCH Watkins and Peter Dayan.
+\newblock Q-learning.
+\newblock {\em Machine learning}, 8(3-4):279--292, 1992.
+
+\bibitem{watkins1989learning}
+Christopher John Cornish~Hellaby Watkins.
+\newblock {\em Learning from delayed rewards}.
+\newblock PhD thesis, University of Cambridge England, 1989.
+
+\end{thebibliography}
